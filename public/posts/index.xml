@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Ai You Wa La</title>
+    <link>http://wangwei0609.github.io/posts/</link>
+    <description>Recent content in Posts on Ai You Wa La</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 26 May 2020 23:32:17 +0800</lastBuildDate>
+    
+	<atom:link href="http://wangwei0609.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Helloworld</title>
+      <link>http://wangwei0609.github.io/posts/helloworld/</link>
+      <pubDate>Tue, 26 May 2020 23:32:17 +0800</pubDate>
+      
+      <guid>http://wangwei0609.github.io/posts/helloworld/</guid>
+      <description>TL;DR:
+Typora requires Pandoc (≥ v1.20). If you do not have Pandoc or only old version of Pandoc installed on your machine, you could:
+Download installer from Download Page and install or update Pandoc.
+For windows users, if typora still saying it cannot found Pandoc, you may need try to restart your PC.
+Pandoc Integration In Typora, import function and export function for some file formats (including docx, odt, rtf, epub, LaTeX and wiki) are powered by a 3rd party software named Pandoc.</description>
+    </item>
+    
+  </channel>
+</rss>
